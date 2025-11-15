@@ -1,0 +1,5 @@
+{
+  "name": "Smart Farm Dashboard",
+  "description": "A modern dashboard to monitor real-time sensor data from your farm. It provides insights into temperature, humidity, soil moisture, and light levels to help optimize crop health and growth.",
+  "requestFramePermissions": []
+}
